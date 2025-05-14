@@ -1,0 +1,3 @@
+[submodule "meg_utils"]
+	path = meg_utils
+	url = git@github.com:skjerns/meg_utils.git
